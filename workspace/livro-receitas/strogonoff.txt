@@ -1,4 +1,6 @@
-strogonof de frango
+# strogonoff de frango :chicken:
+
+
 
 1 kg de frango
 creme de leite
